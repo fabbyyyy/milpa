@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Milpa necesita acceso a tu cámara para tomar fotos de tus parcelas y cultivos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Milpa necesita acceso a tu galería para seleccionar fotos de tus parcelas.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Milpa usa tu ubicación para mostrarte el clima de tu zona agrícola.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Milpa necesita el micrófono para escuchar tus preguntas por voz.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Milpa usa reconocimiento de voz para transcribir tus preguntas.</string></dict>
+</plist>
